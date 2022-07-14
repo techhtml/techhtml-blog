@@ -1,0 +1,6 @@
+[submodule "techhtml-blog-front"]
+	path = techhtml-blog-front
+	url = git@github.com:techhtml/techhtml-blog-front.git
+[submodule "techhtml-blog-api"]
+	path = techhtml-blog-api
+	url = git@github.com:techhtml/techhtml-blog-api.git
